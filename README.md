@@ -1,4 +1,4 @@
-#  Ganesh portfolio
+** Ganesh Portfolio **
 -->  https://ganeshdarapureddi.github.io/portfolio/
 
 This is the link where my portfolio can be directly viewed by clicking on the link or you could search on Google
